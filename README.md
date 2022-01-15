@@ -16,6 +16,8 @@ Simple web project, deployment able on any server or local file system
 
 ## How to contribute
 
+Please Fork this Repository and issue Pull Requests for review.
+
 
 ### Copyright 
 
