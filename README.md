@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Simple website project to demonstrate git and github together
+Simple website project to demonstrate git and github together. Adding a line for rebasing example
 
 ## Introduction 
 
